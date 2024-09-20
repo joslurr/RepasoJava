@@ -27,3 +27,14 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Directorios de IntelliJ y Gradle/Maven
+.idea/
+*.iml
+
+# Directorios de compilación
+out/
+build/
+
+# Archivos generados por el sistema
+.DS_Store
