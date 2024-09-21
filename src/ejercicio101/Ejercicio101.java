@@ -1,4 +1,4 @@
-package repaso;
+package ejercicio101;
 
 public class Ejercicio101 {
 

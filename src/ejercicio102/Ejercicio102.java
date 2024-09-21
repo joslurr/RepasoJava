@@ -1,4 +1,4 @@
-package repaso;
+package ejercicio102;
 
 import java.util.Scanner;
 
