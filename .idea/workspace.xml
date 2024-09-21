@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="647e84ae-9b45-4d28-9442-c076e9b448ed" name="Changes" comment="Añadido Ejercicio 102 - Calculo de años para jubilación.">
-      <change afterPath="$PROJECT_DIR$/src/ejercicio103/Ejercicio103.java" afterDir="false" />
+    <list default="true" id="647e84ae-9b45-4d28-9442-c076e9b448ed" name="Changes" comment="Añadido Ejercicio 103 - Reorganizacion del proyecto con un paquete por ejercicio.">
+      <change afterPath="$PROJECT_DIR$/src/ejercicio103/Articulo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repaso/Ejercicio101.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicio101/Ejercicio101.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repaso/Ejercicio102.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicio102/Ejercicio102.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repaso/Ejercicio103.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicio103/Ejercicio103.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicio103/Ejercicio103.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +37,7 @@
   "keyToString": {
     "Application.Ejercicio101.executor": "Run",
     "Application.Ejercicio102.executor": "Run",
+    "Application.Ejercicio103.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -50,7 +49,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ejercicio102">
+  <component name="RunManager" selected="Application.Ejercicio103">
     <configuration name="Ejercicio101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ejercicio101.Ejercicio101" />
       <module name="RepasoJava" />
@@ -77,8 +76,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ejercicio103" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicio103.Ejercicio103" />
+      <module name="RepasoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicio103.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio103" />
         <item itemvalue="Application.Ejercicio102" />
         <item itemvalue="Application.Ejercicio101" />
       </list>
@@ -132,13 +145,22 @@
       <option name="project" value="LOCAL" />
       <updated>1726906563464</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Añadido Ejercicio 103 - Reorganizacion del proyecto con un paquete por ejercicio.">
+      <option name="closed" value="true" />
+      <created>1726907292947</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726907292947</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Añadido Ejercicio101 del repaso de java" />
     <MESSAGE value="Añadido Ejercicio 101 - Suma de números." />
     <MESSAGE value="Añadido Ejercicio 102 - Calculo de años para jubilación." />
-    <option name="LAST_COMMIT_MESSAGE" value="Añadido Ejercicio 102 - Calculo de años para jubilación." />
+    <MESSAGE value="Añadido Ejercicio 103 - Reorganizacion del proyecto con un paquete por ejercicio." />
+    <option name="LAST_COMMIT_MESSAGE" value="Añadido Ejercicio 103 - Reorganizacion del proyecto con un paquete por ejercicio." />
   </component>
 </project>
