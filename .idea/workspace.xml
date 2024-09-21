@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="647e84ae-9b45-4d28-9442-c076e9b448ed" name="Changes" comment="Añadido Ejercicio 101 - Suma de números." />
+    <list default="true" id="647e84ae-9b45-4d28-9442-c076e9b448ed" name="Changes" comment="Añadido Ejercicio 101 - Suma de números.">
+      <change afterPath="$PROJECT_DIR$/src/repaso/Ejercicio102.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +34,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Ejercicio101.executor": "Debug",
+    "Application.Ejercicio101.executor": "Run",
+    "Application.Ejercicio102.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -43,7 +47,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Ejercicio102">
     <configuration name="Ejercicio101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="repaso.Ejercicio101" />
       <module name="RepasoJava" />
@@ -57,8 +61,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ejercicio102" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="repaso.Ejercicio102" />
+      <module name="RepasoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="repaso.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio102" />
         <item itemvalue="Application.Ejercicio101" />
       </list>
     </recent_temporary>
@@ -95,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726864176680</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Añadido Ejercicio 101 - Suma de números.">
+      <option name="closed" value="true" />
+      <created>1726864417821</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726864417821</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
